@@ -14,21 +14,9 @@ body {
     font-family: "poppins, sans-serif";
 }
 
-.container {
-    padding: 20px 70px;
-}
 
-.current-info {
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-}
 
-.date-container .time {
-    font-size: 70px;
-    font-weight: 100;
-    color: black;
-}
+
 
 .date-container #am-pm {
     font-size: 30px;
@@ -36,10 +24,8 @@ body {
     color: black;
 }
 
-.date-container .date {
-    font-size: 30px;
-    color:black;
-}
+
+
 
 .place-container{
     text-align: end;

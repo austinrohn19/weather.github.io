@@ -34,13 +34,13 @@ body {
 .place-container .time-zone {
     font-size: 30px;
     font-weight: 100;
-    color: whitesmoke;
+    color: black;
 }
   
 .place-container .country {
     font-size: 12px;
     font-weight: 700;
-    color: whitesmoke;
+    color: black;
 }
 
 .current-info .chart {
@@ -51,7 +51,7 @@ body {
     border-radius: 10px;
     margin: 10px 0;
     border: 1px solid white;
-    color: whitesmoke;
+    color: black;
 }
 
 .current-info .chart .weather-item {
@@ -65,7 +65,7 @@ body {
     position: fixed;
     bottom: 0;   
     display: flex;
-    color: white;
+    color: black;
     width: 100%;
     align-items: center;
     justify-content: center;
@@ -87,3 +87,4 @@ body {
 .future-forecast .weather-forcast {
     display: flex;
 }
+

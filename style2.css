@@ -6,7 +6,7 @@
 }
 
 body {
-    background:url("assets/19144141_1693062427655872_1826266858552692143_o.jpg");
+    background:url("assets2/19144141_1693062427655872_1826266858552692143_o.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     overflow: hidden;
@@ -60,13 +60,13 @@ body {
 }
 
 .future-forecast {
-    background: rgba(24,24,27, 0.8);
-    padding: 25px;
-    position: fixed;
-    bottom: 0;   
-    display: flex;
-    color: black;
+    display: inline-block;
     width: 100%;
+    text-align: center;
+    border-radius: 6px;
+    padding: 20px 25px;
+    cursor: pointer;
+    color: black;
     align-items: center;
     justify-content: center;
 }
